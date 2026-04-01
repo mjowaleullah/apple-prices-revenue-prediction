@@ -31,5 +31,3 @@ The dataset used is **synthetic** (artificially generated) and contains informat
 - Matplotlib / Seaborn (for EDA)
 - Jupyter Notebook
 - (Optional) XGBoost, LightGBM, Random Forest, Linear Regression, LSTM, etc.
-
-## 📁 Repository Structure
