@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Price Revenue</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        input { padding: 10px; margin: 10px; width: 250px; font-size: 16px; }
+        button { padding: 12px 30px; font-size: 18px; background: #4CAF50; color: white; border: none; cursor: pointer; }
+        button:hover { background: #45a049; }
+        #result { margin-top: 30px; font-size: 24px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Apple Price Revenue</h1>
+    
+    <p>Please Fill up all Field</p>
+    
+    <input type="number" id="cntry" step="0.01" placeholder="Country Name"><br>
+    <input type="number" id="appleverity" step="0.01" placeholder="Apple Variety"><br>
+    <input type="number" id="Quality_Grade" step="0.01" placeholder="Quality Grade"><br>
+    <input type="number" id="Market_Type" step="0.01" placeholder="Market Type"><br>
+    <input type="number" id="Price_per_KG_USD" step="0.01" placeholder="Price per KG USD"><br>
+    <input type="number" id="Quantity_Sold_KG" step="0.01" placeholder="Quantity Sold KG"><br>
+    
+    <button onclick="predictFlower()">Predict Revenue</button>
+    
+    <div id="result"></div>
+
+    <script>
+        async function predictFlower() {
+            const sl = parseFloat(document.getElementById('sl').value);
+            const sw = parseFloat(document.getElementById('sw').value);
+            const pl = parseFloat(document.getElementById('pl').value);
+            const pw = parseFloat(document.getElementById('pw').value);
+
+            if (!sl || !sw || !pl || !pw) {
+                alert("Fill all field mandatory");
+                return;
+            }
+
+            const data = {
+                sepal_length: sl,
+                sepal_width: sw,
+                petal_length: pl,
+                petal_width: pw
+            };
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+
+                const result = await response.json();
+                
+                document.getElementById('result').innerHTML = 
+                    `Predicted Apple: <strong>${result.flower}</strong>`;
+                
+            } catch (error) {
+                document.getElementById('result').innerHTML = 
+                    `<span style="color:red;">Error: API চালু আছে তো?</span>`;
+            }
+        }
+    </script>
+</body>
+</html>

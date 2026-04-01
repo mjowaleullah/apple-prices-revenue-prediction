@@ -1,0 +1,501 @@
+Record_ID,Date,Country,Apple_Variety,Quality_Grade,Market_Type,Price_per_KG_USD,Quantity_Sold_KG,Revenue_USD
+1,2024-11-27,Brazil,Gala,Premium,Supermarket,4.31,858,3697.98
+2,2025-01-09,Japan,Fuji,Premium,Supermarket,2.96,1913,5662.48
+3,2025-03-20,Canada,Red Delicious,Standard,Supermarket,2.35,542,1273.7
+4,2025-08-02,Brazil,Golden Delicious,Economy,Supermarket,1.26,507,638.82
+5,2025-08-13,Germany,Gala,Economy,Wholesale Market,2.97,151,448.47
+6,2024-10-23,Canada,Red Delicious,Standard,Wholesale Market,2.35,1157,2718.95
+7,2024-04-15,Germany,Honeycrisp,Premium,Supermarket,2.95,1358,4006.1
+8,2025-07-31,China,Golden Delicious,Economy,Online Store,1.02,471,480.42
+9,2024-11-17,China,Honeycrisp,Standard,Wholesale Market,2.52,1941,4891.32
+10,2024-07-03,Canada,Red Delicious,Standard,Online Store,3.39,549,1861.11
+11,2024-12-17,Australia,Gala,Premium,Online Store,3.5,639,2236.5
+12,2024-06-17,China,Granny Smith,Premium,Supermarket,3.6,361,1299.6
+13,2025-07-25,Italy,Honeycrisp,Economy,Local Market,2.92,1842,5378.64
+14,2025-08-31,China,Gala,Premium,Local Market,2.64,1682,4440.48
+15,2025-04-30,USA,Golden Delicious,Economy,Local Market,3.38,183,618.54
+16,2025-10-24,China,Honeycrisp,Economy,Online Store,2.94,1445,4248.3
+17,2025-11-15,China,Honeycrisp,Premium,Supermarket,2.08,1976,4110.08
+18,2025-05-20,France,Fuji,Economy,Wholesale Market,1.02,1623,1655.46
+19,2025-02-11,China,Gala,Premium,Online Store,2.25,1834,4126.5
+20,2025-02-15,UK,Pink Lady,Standard,Local Market,2.83,1859,5260.97
+21,2025-12-24,Brazil,Granny Smith,Premium,Wholesale Market,2.34,784,1834.56
+22,2024-03-25,Brazil,Fuji,Premium,Online Store,1.45,525,761.25
+23,2025-08-26,USA,Fuji,Standard,Local Market,1.47,627,921.69
+24,2025-09-16,Saudi Arabia,Pink Lady,Economy,Supermarket,2.9,307,890.3
+25,2025-04-12,Brazil,Pink Lady,Economy,Online Store,4.13,1647,6802.11
+26,2025-02-11,China,Golden Delicious,Standard,Supermarket,2.28,262,597.36
+27,2024-07-14,China,Fuji,Premium,Local Market,1.05,477,500.85
+28,2025-09-07,Australia,Fuji,Economy,Supermarket,0.99,50,49.5
+29,2025-01-07,Germany,Red Delicious,Standard,Wholesale Market,3.07,194,595.58
+30,2025-10-11,Australia,Honeycrisp,Standard,Supermarket,1.73,761,1316.53
+31,2024-04-28,China,Granny Smith,Standard,Supermarket,3.94,1004,3955.76
+32,2024-05-27,Saudi Arabia,Honeycrisp,Standard,Wholesale Market,1.18,751,886.18
+33,2025-06-12,Japan,Honeycrisp,Premium,Supermarket,0.89,1997,1777.33
+34,2025-06-24,Canada,Golden Delicious,Standard,Local Market,1.9,1366,2595.4
+35,2024-06-20,Japan,Red Delicious,Economy,Local Market,2.12,506,1072.72
+36,2025-10-13,UAE,Pink Lady,Premium,Wholesale Market,1.63,1711,2788.93
+37,2025-02-14,Germany,Red Delicious,Standard,Local Market,3.54,514,1819.56
+38,2024-01-30,France,Granny Smith,Standard,Wholesale Market,4.46,1668,7439.28
+39,2025-12-10,China,Pink Lady,Economy,Local Market,3.04,755,2295.2
+40,2025-01-08,Germany,Granny Smith,Premium,Local Market,1.1,259,284.9
+41,2024-07-28,Australia,Pink Lady,Premium,Online Store,2.59,1893,4902.87
+42,2025-10-30,Canada,Pink Lady,Economy,Supermarket,2.07,1367,2829.69
+43,2025-02-01,Germany,Granny Smith,Premium,Online Store,3.69,1586,5852.34
+44,2025-10-13,Saudi Arabia,Granny Smith,Standard,Online Store,2.03,1690,3430.7
+45,2024-03-27,UK,Gala,Premium,Online Store,3.48,398,1385.04
+46,2025-11-02,Australia,Granny Smith,Economy,Local Market,1.34,1742,2334.28
+47,2024-06-08,USA,Gala,Economy,Supermarket,2.83,318,899.94
+48,2025-06-23,India,Pink Lady,Premium,Wholesale Market,3.57,335,1195.95
+49,2024-01-29,Japan,Fuji,Economy,Local Market,1.73,649,1122.77
+50,2024-09-22,UK,Gala,Economy,Local Market,2.81,1758,4939.98
+51,2025-04-14,Japan,Granny Smith,Economy,Wholesale Market,3.25,1719,5586.75
+52,2025-06-28,USA,Pink Lady,Standard,Wholesale Market,1.36,1095,1489.2
+53,2025-09-15,UK,Fuji,Premium,Online Store,0.81,1686,1365.66
+54,2025-09-25,USA,Honeycrisp,Economy,Online Store,3.48,1189,4137.72
+55,2024-04-18,Germany,Fuji,Standard,Supermarket,4.07,166,675.62
+56,2024-04-10,USA,Pink Lady,Premium,Online Store,2.68,1200,3216.0
+57,2024-11-29,Australia,Red Delicious,Premium,Local Market,3.07,1085,3330.95
+58,2025-04-08,China,Red Delicious,Premium,Local Market,2.68,1703,4564.04
+59,2025-07-26,China,Fuji,Standard,Supermarket,4.1,464,1902.4
+60,2025-02-05,Brazil,Fuji,Standard,Supermarket,2.44,198,483.12
+61,2024-08-05,Canada,Pink Lady,Premium,Local Market,3.28,1655,5428.4
+62,2024-05-26,China,Fuji,Economy,Supermarket,1.74,331,575.94
+63,2025-02-11,Brazil,Pink Lady,Premium,Wholesale Market,4.07,383,1558.81
+64,2025-12-24,India,Honeycrisp,Standard,Wholesale Market,2.4,1105,2652.0
+65,2024-12-31,Italy,Gala,Standard,Online Store,1.98,1528,3025.44
+66,2025-03-27,Italy,Red Delicious,Economy,Local Market,3.4,837,2845.8
+67,2025-06-08,UAE,Fuji,Premium,Supermarket,4.35,281,1222.35
+68,2024-09-28,UAE,Fuji,Standard,Wholesale Market,1.81,1905,3448.05
+69,2025-03-08,France,Granny Smith,Premium,Online Store,3.94,1434,5649.96
+70,2025-12-18,USA,Pink Lady,Economy,Wholesale Market,2.01,621,1248.21
+71,2025-03-11,USA,Golden Delicious,Premium,Local Market,4.11,600,2466.0
+72,2024-03-26,Canada,Honeycrisp,Premium,Online Store,3.05,505,1540.25
+73,2024-01-12,India,Honeycrisp,Economy,Wholesale Market,2.05,1182,2423.1
+74,2024-02-14,Canada,Fuji,Standard,Supermarket,2.75,538,1479.5
+75,2024-07-04,Brazil,Honeycrisp,Economy,Wholesale Market,1.55,688,1066.4
+76,2024-10-23,UK,Honeycrisp,Standard,Supermarket,2.45,1426,3493.7
+77,2024-09-13,Saudi Arabia,Red Delicious,Economy,Wholesale Market,0.94,87,81.78
+78,2025-06-10,China,Gala,Economy,Online Store,2.56,1964,5027.84
+79,2025-11-03,India,Red Delicious,Standard,Wholesale Market,2.63,1759,4626.17
+80,2024-08-23,Saudi Arabia,Golden Delicious,Economy,Wholesale Market,2.07,1754,3630.78
+81,2025-02-18,UK,Gala,Premium,Local Market,4.46,161,718.06
+82,2025-03-17,Brazil,Pink Lady,Standard,Local Market,1.4,223,312.2
+83,2025-09-05,USA,Granny Smith,Premium,Wholesale Market,1.7,650,1105.0
+84,2024-10-02,Italy,Honeycrisp,Economy,Local Market,2.45,589,1443.05
+85,2024-09-07,France,Fuji,Standard,Wholesale Market,0.93,1857,1727.01
+86,2024-01-02,China,Honeycrisp,Economy,Wholesale Market,2.04,221,450.84
+87,2024-09-11,Canada,Honeycrisp,Premium,Wholesale Market,2.67,60,160.2
+88,2025-02-13,USA,Honeycrisp,Standard,Wholesale Market,2.97,856,2542.32
+89,2024-03-27,UAE,Fuji,Economy,Online Store,2.97,1133,3365.01
+90,2024-11-29,UK,Honeycrisp,Economy,Wholesale Market,3.47,1062,3685.14
+91,2024-02-14,Japan,Golden Delicious,Standard,Wholesale Market,3.85,1514,5828.9
+92,2025-06-20,UAE,Gala,Economy,Wholesale Market,3.59,1214,4358.26
+93,2024-03-28,Brazil,Honeycrisp,Premium,Online Store,0.92,322,296.24
+94,2025-04-07,USA,Golden Delicious,Economy,Wholesale Market,2.87,1335,3831.45
+95,2025-05-16,UAE,Gala,Economy,Supermarket,1.78,985,1753.3
+96,2025-11-06,Saudi Arabia,Granny Smith,Standard,Supermarket,2.75,1577,4336.75
+97,2024-09-28,Germany,Fuji,Economy,Online Store,1.67,1599,2670.33
+98,2025-05-20,China,Golden Delicious,Standard,Supermarket,3.93,207,813.51
+99,2025-09-23,Canada,Red Delicious,Premium,Local Market,3.14,456,1431.84
+100,2024-09-17,France,Red Delicious,Economy,Wholesale Market,3.21,1469,4715.49
+101,2024-01-13,France,Golden Delicious,Premium,Wholesale Market,2.58,1044,2693.52
+102,2025-11-22,Japan,Honeycrisp,Standard,Online Store,2.61,1501,3917.61
+103,2025-04-22,Japan,Fuji,Standard,Supermarket,3.64,1880,6843.2
+104,2025-04-29,Canada,Pink Lady,Economy,Online Store,0.86,989,850.54
+105,2024-10-02,Germany,Gala,Economy,Supermarket,2.23,1927,4297.21
+106,2024-05-25,Italy,Fuji,Economy,Local Market,3.57,586,2092.02
+107,2024-04-25,China,Granny Smith,Standard,Supermarket,3.4,523,1778.2
+108,2024-06-11,Brazil,Granny Smith,Standard,Local Market,0.81,1056,855.36
+109,2024-05-24,Italy,Gala,Standard,Supermarket,2.34,820,1918.8
+110,2024-11-28,India,Gala,Premium,Supermarket,3.58,1768,6329.44
+111,2024-10-23,India,Granny Smith,Economy,Supermarket,1.74,183,318.42
+112,2025-01-04,France,Pink Lady,Premium,Local Market,4.22,1597,6739.34
+113,2024-04-14,France,Golden Delicious,Premium,Wholesale Market,0.99,1405,1390.95
+114,2024-09-29,Germany,Pink Lady,Standard,Online Store,2.41,696,1677.36
+115,2024-01-30,India,Red Delicious,Economy,Wholesale Market,3.8,1342,5099.6
+116,2024-03-23,India,Granny Smith,Economy,Wholesale Market,0.98,1549,1518.02
+117,2025-10-21,USA,Red Delicious,Premium,Wholesale Market,4.02,1044,4196.88
+118,2025-04-28,France,Honeycrisp,Economy,Local Market,2.34,627,1467.18
+119,2025-02-19,China,Red Delicious,Economy,Online Store,3.23,666,2151.18
+120,2024-05-02,Canada,Fuji,Economy,Online Store,1.42,381,541.02
+121,2025-07-17,Italy,Pink Lady,Standard,Online Store,1.61,1906,3068.66
+122,2024-05-22,Canada,Fuji,Standard,Supermarket,2.83,549,1553.67
+123,2024-11-22,UAE,Red Delicious,Premium,Supermarket,1.68,579,972.72
+124,2025-02-26,Japan,Fuji,Standard,Local Market,2.22,1577,3500.94
+125,2024-12-12,France,Red Delicious,Standard,Wholesale Market,3.58,1070,3830.6
+126,2025-12-04,UAE,Pink Lady,Premium,Supermarket,2.66,1339,3561.74
+127,2024-10-04,India,Golden Delicious,Standard,Online Store,4.12,837,3448.44
+128,2024-11-15,USA,Fuji,Premium,Online Store,3.94,1837,7237.78
+129,2025-12-27,China,Red Delicious,Standard,Supermarket,3.63,1697,6160.11
+130,2024-03-15,Japan,Pink Lady,Standard,Online Store,2.25,1948,4383.0
+131,2024-09-11,UK,Fuji,Economy,Supermarket,3.7,508,1879.6
+132,2025-12-18,China,Gala,Economy,Supermarket,3.2,1616,5171.2
+133,2024-01-02,Australia,Gala,Economy,Local Market,3.69,526,1940.94
+134,2024-05-11,Brazil,Granny Smith,Economy,Supermarket,3.12,1131,3528.72
+135,2024-04-11,Australia,Fuji,Standard,Local Market,1.06,1124,1191.44
+136,2024-08-16,USA,Red Delicious,Standard,Online Store,3.72,52,193.44
+137,2024-10-12,Germany,Granny Smith,Economy,Wholesale Market,4.35,1370,5959.5
+138,2025-07-14,Saudi Arabia,Golden Delicious,Standard,Supermarket,1.71,893,1527.03
+139,2024-01-23,Brazil,Golden Delicious,Standard,Supermarket,1.52,1862,2830.24
+140,2024-09-20,Italy,Fuji,Standard,Supermarket,1.64,919,1507.16
+141,2025-12-13,Italy,Golden Delicious,Standard,Wholesale Market,2.05,911,1867.55
+142,2024-01-07,Japan,Gala,Premium,Online Store,3.75,1563,5861.25
+143,2024-07-24,Germany,Fuji,Standard,Wholesale Market,1.95,1729,3371.55
+144,2024-09-28,Canada,Red Delicious,Standard,Wholesale Market,3.61,654,2360.94
+145,2024-08-16,Brazil,Gala,Economy,Wholesale Market,2.59,1914,4957.26
+146,2025-02-06,Australia,Fuji,Standard,Supermarket,1.0,98,98.0
+147,2025-12-27,China,Golden Delicious,Standard,Supermarket,1.02,855,872.1
+148,2024-03-22,Germany,Fuji,Economy,Online Store,4.25,724,3077.0
+149,2024-02-02,India,Pink Lady,Standard,Local Market,1.95,1535,2993.25
+150,2025-03-29,Canada,Honeycrisp,Premium,Local Market,1.43,55,78.65
+151,2025-03-06,Japan,Pink Lady,Premium,Online Store,4.34,303,1315.02
+152,2024-12-31,UAE,Granny Smith,Premium,Supermarket,3.64,682,2482.48
+153,2025-12-23,Japan,Granny Smith,Premium,Local Market,2.55,813,2073.15
+154,2025-01-07,USA,Golden Delicious,Standard,Wholesale Market,3.53,1021,3604.13
+155,2025-10-02,India,Gala,Standard,Supermarket,3.64,133,484.12
+156,2024-03-04,Canada,Red Delicious,Standard,Local Market,1.75,1580,2765.0
+157,2024-10-05,USA,Honeycrisp,Economy,Local Market,2.04,1313,2678.52
+158,2024-10-09,UAE,Red Delicious,Economy,Supermarket,1.9,1527,2901.3
+159,2024-01-25,China,Golden Delicious,Standard,Online Store,3.86,269,1038.34
+160,2024-09-14,China,Fuji,Standard,Wholesale Market,4.18,1718,7181.24
+161,2024-01-09,France,Pink Lady,Economy,Wholesale Market,3.77,1562,5888.74
+162,2025-09-13,Italy,Granny Smith,Standard,Supermarket,1.67,1813,3027.71
+163,2025-06-08,UK,Fuji,Standard,Supermarket,1.53,1591,2434.23
+164,2025-10-27,Japan,Honeycrisp,Premium,Online Store,0.93,1181,1098.33
+165,2024-04-17,Australia,Gala,Premium,Supermarket,4.45,592,2634.4
+166,2025-03-07,China,Fuji,Premium,Wholesale Market,2.64,1503,3967.92
+167,2025-03-02,Brazil,Fuji,Economy,Supermarket,2.51,1875,4706.25
+168,2024-10-27,France,Honeycrisp,Standard,Local Market,1.89,1210,2286.9
+169,2024-07-22,Germany,Fuji,Premium,Local Market,2.43,430,1044.9
+170,2025-08-15,India,Honeycrisp,Premium,Wholesale Market,1.5,182,273.0
+171,2025-10-27,China,Gala,Premium,Supermarket,3.79,1388,5260.52
+172,2025-05-01,China,Honeycrisp,Premium,Local Market,4.07,523,2128.61
+173,2024-08-26,Australia,Pink Lady,Economy,Wholesale Market,1.24,438,543.12
+174,2024-03-17,UK,Granny Smith,Economy,Local Market,2.18,1823,3974.14
+175,2025-11-11,Brazil,Red Delicious,Economy,Local Market,4.3,266,1143.8
+176,2024-08-10,UK,Gala,Premium,Local Market,0.94,746,701.24
+177,2024-02-09,Germany,Pink Lady,Premium,Local Market,3.02,1384,4179.68
+178,2025-02-22,Australia,Honeycrisp,Premium,Wholesale Market,3.31,429,1419.99
+179,2024-02-02,China,Gala,Standard,Supermarket,3.74,1172,4383.28
+180,2025-02-08,Brazil,Red Delicious,Premium,Wholesale Market,3.26,366,1193.16
+181,2025-02-11,France,Golden Delicious,Standard,Online Store,3.37,889,2995.93
+182,2024-02-22,Italy,Granny Smith,Standard,Supermarket,1.96,1210,2371.6
+183,2025-01-07,Saudi Arabia,Granny Smith,Premium,Supermarket,3.18,850,2703.0
+184,2025-03-20,Canada,Pink Lady,Premium,Online Store,4.14,917,3796.38
+185,2025-08-14,UAE,Fuji,Premium,Supermarket,4.07,993,4041.51
+186,2024-02-22,UAE,Granny Smith,Premium,Local Market,2.84,1362,3868.08
+187,2025-05-31,France,Fuji,Economy,Wholesale Market,1.44,762,1097.28
+188,2024-03-09,UAE,Pink Lady,Premium,Local Market,1.2,1054,1264.8
+189,2024-05-09,China,Honeycrisp,Premium,Online Store,3.9,139,542.1
+190,2024-03-29,Saudi Arabia,Pink Lady,Premium,Wholesale Market,4.15,1320,5478.0
+191,2025-09-27,Germany,Pink Lady,Standard,Wholesale Market,2.3,1783,4100.9
+192,2025-08-01,Japan,Fuji,Standard,Local Market,1.61,868,1397.48
+193,2024-05-06,Germany,Gala,Economy,Supermarket,1.35,1534,2070.9
+194,2025-11-14,India,Red Delicious,Standard,Local Market,3.9,291,1134.9
+195,2025-10-26,Germany,Granny Smith,Standard,Local Market,2.35,1243,2921.05
+196,2025-04-02,USA,Gala,Economy,Online Store,2.66,416,1106.56
+197,2025-04-21,Australia,Pink Lady,Standard,Wholesale Market,1.67,1613,2693.71
+198,2025-04-29,UK,Honeycrisp,Standard,Local Market,2.28,187,426.36
+199,2024-04-03,Japan,Golden Delicious,Premium,Supermarket,3.77,1082,4079.14
+200,2025-10-13,Saudi Arabia,Honeycrisp,Economy,Supermarket,1.28,1938,2480.64
+201,2024-02-25,India,Golden Delicious,Premium,Supermarket,3.58,1882,6737.56
+202,2024-03-08,Saudi Arabia,Pink Lady,Premium,Wholesale Market,4.49,1549,6955.01
+203,2024-05-14,France,Pink Lady,Premium,Wholesale Market,4.43,1057,4682.51
+204,2024-03-08,UAE,Honeycrisp,Premium,Local Market,3.88,1300,5044.0
+205,2025-09-20,China,Fuji,Standard,Online Store,1.82,1720,3130.4
+206,2024-08-01,Japan,Fuji,Standard,Local Market,2.99,1311,3919.89
+207,2024-02-07,UK,Golden Delicious,Standard,Local Market,1.54,876,1349.04
+208,2025-01-20,France,Gala,Economy,Supermarket,1.42,1657,2352.94
+209,2025-10-13,China,Red Delicious,Economy,Supermarket,3.98,1837,7311.26
+210,2024-09-15,India,Golden Delicious,Standard,Local Market,4.47,1339,5985.33
+211,2025-01-19,UK,Honeycrisp,Standard,Supermarket,4.46,1232,5494.72
+212,2025-03-28,Saudi Arabia,Gala,Standard,Local Market,1.65,1310,2161.5
+213,2024-11-13,Australia,Golden Delicious,Standard,Supermarket,3.17,1832,5807.44
+214,2024-02-04,Australia,Golden Delicious,Standard,Online Store,1.62,645,1044.9
+215,2025-06-08,UK,Granny Smith,Premium,Supermarket,2.15,147,316.05
+216,2024-01-23,Italy,Honeycrisp,Premium,Local Market,1.0,1211,1211.0
+217,2025-06-30,France,Red Delicious,Premium,Wholesale Market,1.63,1245,2029.35
+218,2025-01-10,UK,Fuji,Premium,Wholesale Market,3.11,1022,3178.42
+219,2025-12-25,Canada,Golden Delicious,Premium,Local Market,1.35,246,332.1
+220,2025-02-15,USA,Golden Delicious,Economy,Local Market,3.8,73,277.4
+221,2025-08-31,Australia,Red Delicious,Economy,Online Store,3.19,958,3056.02
+222,2024-09-11,USA,Gala,Economy,Supermarket,1.41,50,70.5
+223,2025-02-19,USA,Pink Lady,Premium,Supermarket,1.49,376,560.24
+224,2025-09-19,Germany,Fuji,Standard,Wholesale Market,2.84,1977,5614.68
+225,2025-06-14,Brazil,Golden Delicious,Standard,Wholesale Market,3.05,1088,3318.4
+226,2025-06-04,Brazil,Gala,Economy,Online Store,1.94,664,1288.16
+227,2025-07-05,India,Golden Delicious,Standard,Supermarket,0.82,1779,1458.78
+228,2025-11-02,Canada,Honeycrisp,Premium,Supermarket,2.47,512,1264.64
+229,2024-05-06,Saudi Arabia,Pink Lady,Standard,Supermarket,2.04,1585,3233.4
+230,2024-09-29,India,Golden Delicious,Economy,Local Market,3.15,1441,4539.15
+231,2024-10-29,Germany,Gala,Economy,Supermarket,3.18,1881,5981.58
+232,2024-06-22,Saudi Arabia,Fuji,Premium,Local Market,1.76,533,938.08
+233,2024-07-15,Australia,Fuji,Standard,Online Store,4.06,722,2931.32
+234,2025-04-28,USA,Pink Lady,Premium,Online Store,3.91,1478,5778.98
+235,2024-08-27,UAE,Fuji,Standard,Supermarket,2.91,680,1978.8
+236,2025-08-01,USA,Gala,Premium,Supermarket,4.17,346,1442.82
+237,2025-09-28,UK,Golden Delicious,Premium,Supermarket,4.24,756,3205.44
+238,2024-02-12,Brazil,Gala,Economy,Supermarket,1.31,1367,1790.77
+239,2024-02-17,UAE,Honeycrisp,Premium,Supermarket,1.04,1259,1309.36
+240,2025-12-29,Germany,Fuji,Premium,Supermarket,4.29,269,1154.01
+241,2024-02-04,UAE,Pink Lady,Economy,Supermarket,0.93,1786,1660.98
+242,2025-10-08,Canada,Fuji,Premium,Wholesale Market,3.14,1027,3224.78
+243,2024-10-28,France,Gala,Standard,Local Market,1.98,917,1815.66
+244,2024-10-16,Italy,Honeycrisp,Economy,Online Store,0.98,1606,1573.88
+245,2024-10-21,UAE,Granny Smith,Premium,Online Store,3.09,113,349.17
+246,2025-06-15,China,Golden Delicious,Premium,Wholesale Market,3.66,760,2781.6
+247,2024-04-03,UK,Granny Smith,Premium,Wholesale Market,2.93,638,1869.34
+248,2024-10-22,USA,Honeycrisp,Standard,Supermarket,3.62,160,579.2
+249,2025-05-18,UK,Granny Smith,Economy,Local Market,3.37,1740,5863.8
+250,2025-06-11,UK,Honeycrisp,Premium,Wholesale Market,1.76,1983,3490.08
+251,2025-05-25,Brazil,Pink Lady,Premium,Online Store,1.41,1972,2780.52
+252,2025-12-14,Brazil,Honeycrisp,Standard,Supermarket,2.88,264,760.32
+253,2025-02-14,Saudi Arabia,Gala,Standard,Supermarket,4.24,1876,7954.24
+254,2025-01-15,India,Red Delicious,Economy,Wholesale Market,1.56,589,918.84
+255,2025-01-23,Germany,Granny Smith,Premium,Supermarket,4.43,1341,5940.63
+256,2024-12-22,UK,Pink Lady,Standard,Local Market,2.95,1118,3298.1
+257,2024-06-22,UAE,Honeycrisp,Economy,Wholesale Market,2.51,1461,3667.11
+258,2024-05-09,Saudi Arabia,Fuji,Economy,Wholesale Market,2.04,1366,2786.64
+259,2024-09-30,Australia,Fuji,Economy,Wholesale Market,1.92,1490,2860.8
+260,2024-09-10,Japan,Honeycrisp,Premium,Wholesale Market,3.48,1284,4468.32
+261,2024-12-01,Saudi Arabia,Gala,Premium,Supermarket,4.34,579,2512.86
+262,2024-07-19,UAE,Honeycrisp,Economy,Local Market,2.22,353,783.66
+263,2025-03-21,Brazil,Gala,Standard,Wholesale Market,1.81,273,494.13
+264,2025-02-01,India,Pink Lady,Standard,Wholesale Market,2.52,75,189.0
+265,2025-05-27,China,Gala,Premium,Local Market,4.43,656,2906.08
+266,2025-09-10,Saudi Arabia,Fuji,Standard,Online Store,3.53,61,215.33
+267,2024-08-22,UAE,Golden Delicious,Economy,Wholesale Market,3.27,1386,4532.22
+268,2025-11-26,China,Granny Smith,Standard,Local Market,1.47,304,446.88
+269,2025-10-05,India,Fuji,Standard,Wholesale Market,3.39,1882,6379.98
+270,2024-09-13,China,Gala,Economy,Online Store,3.94,1038,4089.72
+271,2025-06-14,UK,Golden Delicious,Standard,Supermarket,3.3,1955,6451.5
+272,2025-02-02,Canada,Gala,Standard,Wholesale Market,3.88,1909,7406.92
+273,2024-06-13,Germany,Red Delicious,Standard,Supermarket,3.45,1998,6893.1
+274,2025-08-11,Saudi Arabia,Granny Smith,Economy,Supermarket,2.49,469,1167.81
+275,2025-10-16,Japan,Honeycrisp,Standard,Online Store,3.73,807,3010.11
+276,2024-08-03,India,Red Delicious,Premium,Local Market,4.46,426,1899.96
+277,2025-10-14,India,Granny Smith,Premium,Supermarket,1.01,611,617.11
+278,2024-03-17,Brazil,Golden Delicious,Economy,Local Market,2.35,911,2140.85
+279,2025-08-17,France,Golden Delicious,Standard,Wholesale Market,1.78,509,906.02
+280,2025-02-05,UK,Pink Lady,Premium,Wholesale Market,2.51,386,968.86
+281,2025-04-25,Germany,Pink Lady,Premium,Local Market,3.18,1526,4852.68
+282,2025-11-13,UAE,Pink Lady,Standard,Online Store,3.16,1726,5454.16
+283,2024-10-28,UK,Pink Lady,Standard,Local Market,3.61,1380,4981.8
+284,2024-08-23,Brazil,Honeycrisp,Standard,Wholesale Market,1.79,820,1467.8
+285,2025-05-08,UAE,Honeycrisp,Standard,Wholesale Market,0.81,1528,1237.68
+286,2025-11-01,China,Granny Smith,Economy,Supermarket,1.92,1032,1981.44
+287,2025-11-06,France,Pink Lady,Standard,Supermarket,4.12,362,1491.44
+288,2024-03-28,Italy,Pink Lady,Premium,Local Market,3.86,1905,7353.3
+289,2025-10-10,USA,Fuji,Premium,Local Market,2.96,1396,4132.16
+290,2024-09-13,UK,Pink Lady,Premium,Wholesale Market,3.05,1234,3763.7
+291,2025-04-07,Germany,Granny Smith,Economy,Wholesale Market,2.08,362,752.96
+292,2025-09-16,UAE,Gala,Economy,Local Market,4.1,1295,5309.5
+293,2024-07-21,Japan,Gala,Economy,Online Store,2.63,486,1278.18
+294,2025-11-18,Canada,Honeycrisp,Standard,Wholesale Market,4.07,1186,4827.02
+295,2024-05-22,USA,Granny Smith,Standard,Wholesale Market,2.55,1191,3037.05
+296,2025-12-18,UK,Red Delicious,Economy,Supermarket,2.62,1070,2803.4
+297,2024-06-13,Saudi Arabia,Red Delicious,Standard,Local Market,3.91,1008,3941.28
+298,2025-04-21,Brazil,Gala,Premium,Local Market,2.19,907,1986.33
+299,2025-10-13,Australia,Gala,Economy,Local Market,3.19,92,293.48
+300,2024-04-06,UAE,Fuji,Premium,Wholesale Market,2.69,1042,2802.98
+301,2025-03-01,Canada,Pink Lady,Economy,Local Market,3.11,743,2310.73
+302,2024-12-15,Japan,Pink Lady,Premium,Local Market,2.56,1126,2882.56
+303,2025-03-21,Japan,Gala,Standard,Local Market,2.07,565,1169.55
+304,2024-12-29,Italy,Red Delicious,Standard,Local Market,3.86,876,3381.36
+305,2024-07-27,Canada,Honeycrisp,Premium,Local Market,3.22,1671,5380.62
+306,2025-12-31,Brazil,Gala,Premium,Online Store,1.91,1251,2389.41
+307,2025-07-21,Australia,Gala,Standard,Local Market,4.08,1166,4757.28
+308,2024-04-21,China,Red Delicious,Economy,Supermarket,0.82,438,359.16
+309,2025-05-27,India,Red Delicious,Premium,Supermarket,4.17,1302,5429.34
+310,2024-08-05,China,Golden Delicious,Premium,Supermarket,0.95,1347,1279.65
+311,2025-11-10,India,Pink Lady,Premium,Supermarket,1.47,125,183.75
+312,2025-01-12,UAE,Honeycrisp,Economy,Local Market,4.03,334,1346.02
+313,2024-11-05,Italy,Gala,Standard,Supermarket,1.48,120,177.6
+314,2025-05-24,Canada,Pink Lady,Standard,Online Store,2.9,130,377.0
+315,2025-04-02,India,Red Delicious,Economy,Wholesale Market,1.05,1442,1514.1
+316,2025-05-01,Canada,Gala,Economy,Online Store,3.65,1173,4281.45
+317,2024-08-05,USA,Granny Smith,Premium,Supermarket,4.11,1333,5478.63
+318,2025-12-01,Canada,Fuji,Premium,Wholesale Market,3.28,1808,5930.24
+319,2025-04-28,Australia,Fuji,Standard,Wholesale Market,0.87,1523,1325.01
+320,2024-02-21,Saudi Arabia,Golden Delicious,Premium,Supermarket,2.15,1580,3397.0
+321,2024-10-27,China,Granny Smith,Economy,Local Market,3.13,1502,4701.26
+322,2024-02-23,USA,Gala,Economy,Supermarket,3.45,73,251.85
+323,2025-02-02,Australia,Fuji,Standard,Supermarket,1.95,1543,3008.85
+324,2024-11-19,Saudi Arabia,Granny Smith,Standard,Wholesale Market,2.16,1227,2650.32
+325,2024-05-28,Italy,Golden Delicious,Premium,Online Store,4.38,289,1265.82
+326,2025-05-03,China,Honeycrisp,Economy,Local Market,2.23,1660,3701.8
+327,2024-10-26,Brazil,Golden Delicious,Economy,Local Market,1.84,1323,2434.32
+328,2025-09-12,UK,Red Delicious,Standard,Online Store,3.49,81,282.69
+329,2024-09-09,India,Red Delicious,Premium,Online Store,2.19,1452,3179.88
+330,2024-10-17,France,Honeycrisp,Standard,Wholesale Market,3.35,708,2371.8
+331,2025-08-23,UAE,Gala,Standard,Wholesale Market,4.21,1613,6790.73
+332,2025-08-08,UAE,Pink Lady,Economy,Online Store,1.34,1793,2402.62
+333,2024-12-21,Japan,Granny Smith,Standard,Wholesale Market,2.78,1155,3210.9
+334,2024-08-27,Brazil,Granny Smith,Standard,Wholesale Market,1.95,167,325.65
+335,2024-09-17,UAE,Granny Smith,Standard,Supermarket,2.97,69,204.93
+336,2025-07-03,Canada,Fuji,Standard,Local Market,3.78,1631,6165.18
+337,2025-06-18,Australia,Fuji,Premium,Wholesale Market,1.99,1086,2161.14
+338,2024-07-15,Saudi Arabia,Honeycrisp,Standard,Local Market,1.14,1700,1938.0
+339,2025-02-16,UK,Fuji,Premium,Online Store,3.68,1805,6642.4
+340,2025-01-18,Brazil,Granny Smith,Premium,Wholesale Market,4.01,811,3252.11
+341,2024-11-19,France,Red Delicious,Economy,Supermarket,3.01,756,2275.56
+342,2024-04-06,Australia,Granny Smith,Economy,Wholesale Market,0.92,1833,1686.36
+343,2024-09-24,India,Gala,Standard,Wholesale Market,4.22,623,2629.06
+344,2024-09-17,Germany,Fuji,Standard,Supermarket,3.92,743,2912.56
+345,2024-01-29,Italy,Pink Lady,Economy,Online Store,0.99,1191,1179.09
+346,2025-05-13,Canada,Pink Lady,Economy,Online Store,4.3,1913,8225.9
+347,2024-05-02,France,Honeycrisp,Economy,Wholesale Market,3.41,234,797.94
+348,2025-10-18,Brazil,Red Delicious,Standard,Wholesale Market,1.13,1935,2186.55
+349,2025-04-04,Germany,Golden Delicious,Premium,Wholesale Market,3.94,809,3187.46
+350,2024-02-09,Italy,Gala,Economy,Supermarket,4.28,1977,8461.56
+351,2024-02-18,Saudi Arabia,Golden Delicious,Economy,Online Store,1.75,1101,1926.75
+352,2024-02-27,UAE,Gala,Premium,Local Market,1.17,700,819.0
+353,2025-08-26,Brazil,Gala,Standard,Local Market,2.99,1602,4789.98
+354,2025-01-15,Italy,Granny Smith,Standard,Wholesale Market,1.75,304,532.0
+355,2025-03-27,Brazil,Gala,Standard,Wholesale Market,1.68,343,576.24
+356,2024-02-06,Germany,Gala,Economy,Local Market,1.38,1755,2421.9
+357,2024-05-23,India,Pink Lady,Premium,Supermarket,3.68,248,912.64
+358,2025-04-08,Germany,Granny Smith,Premium,Local Market,4.4,710,3124.0
+359,2024-05-26,USA,Fuji,Economy,Online Store,2.03,1557,3160.71
+360,2025-07-20,UK,Honeycrisp,Standard,Online Store,4.09,949,3881.41
+361,2024-09-09,Australia,Pink Lady,Standard,Local Market,1.38,605,834.9
+362,2024-06-20,Italy,Granny Smith,Standard,Supermarket,1.76,273,480.48
+363,2024-06-06,Brazil,Pink Lady,Economy,Wholesale Market,4.42,166,733.72
+364,2025-07-27,Canada,Honeycrisp,Premium,Local Market,2.57,636,1634.52
+365,2025-03-18,Germany,Gala,Standard,Local Market,4.47,538,2404.86
+366,2025-03-01,Saudi Arabia,Honeycrisp,Premium,Supermarket,4.12,167,688.04
+367,2025-03-28,Japan,Fuji,Standard,Supermarket,3.79,748,2834.92
+368,2025-06-23,India,Gala,Standard,Wholesale Market,1.86,787,1463.82
+369,2024-10-10,UK,Red Delicious,Premium,Wholesale Market,2.91,332,966.12
+370,2024-07-20,Canada,Red Delicious,Economy,Online Store,3.02,1747,5275.94
+371,2024-10-07,Australia,Golden Delicious,Economy,Wholesale Market,1.45,330,478.5
+372,2025-08-19,Canada,Golden Delicious,Economy,Online Store,1.94,70,135.8
+373,2024-02-26,Italy,Honeycrisp,Economy,Online Store,2.72,761,2069.92
+374,2024-04-02,UAE,Granny Smith,Premium,Local Market,0.86,1914,1646.04
+375,2024-09-11,Italy,Gala,Premium,Local Market,1.49,1753,2611.97
+376,2025-08-11,Italy,Red Delicious,Standard,Supermarket,3.0,59,177.0
+377,2024-05-03,Italy,Pink Lady,Economy,Online Store,2.12,551,1168.12
+378,2025-08-13,France,Pink Lady,Premium,Online Store,3.58,175,626.5
+379,2025-04-02,UAE,Red Delicious,Premium,Supermarket,2.7,1136,3067.2
+380,2024-09-06,Australia,Fuji,Premium,Supermarket,4.38,508,2225.04
+381,2024-11-15,USA,Gala,Premium,Wholesale Market,1.73,1723,2980.79
+382,2024-09-24,Brazil,Red Delicious,Standard,Wholesale Market,0.87,1277,1110.99
+383,2025-12-20,Canada,Golden Delicious,Premium,Supermarket,2.44,768,1873.92
+384,2024-10-06,Australia,Red Delicious,Standard,Supermarket,1.26,1060,1335.6
+385,2024-05-04,UK,Red Delicious,Economy,Wholesale Market,1.25,1861,2326.25
+386,2024-08-20,China,Golden Delicious,Standard,Wholesale Market,1.34,1223,1638.82
+387,2024-01-19,Saudi Arabia,Granny Smith,Economy,Supermarket,4.27,846,3612.42
+388,2025-02-09,UAE,Honeycrisp,Standard,Online Store,4.39,156,684.84
+389,2024-09-03,India,Pink Lady,Economy,Local Market,3.9,1515,5908.5
+390,2025-02-14,Italy,Red Delicious,Premium,Local Market,3.94,159,626.46
+391,2024-09-12,Brazil,Gala,Standard,Supermarket,4.02,1408,5660.16
+392,2025-06-27,India,Fuji,Economy,Supermarket,1.49,714,1063.86
+393,2024-08-18,UAE,Granny Smith,Economy,Supermarket,1.32,863,1139.16
+394,2024-02-11,Australia,Honeycrisp,Economy,Local Market,0.93,1363,1267.59
+395,2025-10-05,USA,Red Delicious,Premium,Local Market,2.81,1943,5459.83
+396,2024-05-04,Germany,Gala,Standard,Supermarket,2.73,938,2560.74
+397,2024-11-08,Canada,Gala,Economy,Local Market,2.09,391,817.19
+398,2024-03-27,UK,Granny Smith,Premium,Wholesale Market,2.53,1143,2891.79
+399,2024-10-27,France,Honeycrisp,Premium,Supermarket,4.19,1232,5162.08
+400,2025-07-13,Australia,Golden Delicious,Economy,Wholesale Market,1.86,980,1822.8
+401,2025-10-27,Saudi Arabia,Honeycrisp,Standard,Local Market,2.23,1173,2615.79
+402,2025-09-19,France,Gala,Premium,Local Market,2.57,1726,4435.82
+403,2024-08-14,India,Red Delicious,Standard,Supermarket,1.5,1168,1752.0
+404,2024-12-27,Germany,Honeycrisp,Economy,Local Market,1.4,1999,2798.6
+405,2025-05-18,Germany,Honeycrisp,Premium,Supermarket,1.8,1848,3326.4
+406,2024-06-11,Italy,Granny Smith,Economy,Supermarket,2.84,1290,3663.6
+407,2025-06-13,Italy,Golden Delicious,Premium,Wholesale Market,2.24,950,2128.0
+408,2025-11-24,India,Honeycrisp,Economy,Local Market,3.53,366,1291.98
+409,2024-05-23,Australia,Pink Lady,Standard,Supermarket,3.3,1312,4329.6
+410,2025-05-01,Saudi Arabia,Golden Delicious,Economy,Wholesale Market,1.79,1341,2400.39
+411,2025-02-26,India,Pink Lady,Economy,Supermarket,4.02,58,233.16
+412,2025-05-24,UK,Granny Smith,Standard,Supermarket,2.27,1221,2771.67
+413,2025-01-23,China,Honeycrisp,Economy,Local Market,3.95,1468,5798.6
+414,2024-10-26,Japan,Red Delicious,Standard,Local Market,2.11,1127,2377.97
+415,2024-01-07,China,Granny Smith,Standard,Local Market,3.71,1789,6637.19
+416,2024-07-07,UK,Granny Smith,Economy,Online Store,2.79,1694,4726.26
+417,2025-08-18,Italy,Honeycrisp,Economy,Wholesale Market,1.66,1732,2875.12
+418,2024-11-29,USA,Gala,Premium,Local Market,1.56,923,1439.88
+419,2025-08-01,Japan,Pink Lady,Standard,Online Store,4.11,664,2729.04
+420,2025-06-13,Brazil,Granny Smith,Standard,Online Store,3.86,1539,5940.54
+421,2025-01-01,Italy,Granny Smith,Premium,Supermarket,0.95,1434,1362.3
+422,2025-06-21,Italy,Red Delicious,Standard,Wholesale Market,1.65,888,1465.2
+423,2024-07-11,India,Granny Smith,Economy,Local Market,4.37,1046,4571.02
+424,2025-12-09,Canada,Fuji,Standard,Local Market,2.76,1720,4747.2
+425,2025-01-10,France,Red Delicious,Premium,Supermarket,4.42,1741,7695.22
+426,2025-11-02,Italy,Pink Lady,Economy,Online Store,4.11,1462,6008.82
+427,2025-10-08,Japan,Fuji,Economy,Wholesale Market,1.38,643,887.34
+428,2025-02-26,Australia,Red Delicious,Premium,Local Market,1.47,1340,1969.8
+429,2025-08-06,Saudi Arabia,Gala,Economy,Online Store,4.48,1353,6061.44
+430,2024-01-11,Saudi Arabia,Golden Delicious,Economy,Supermarket,3.71,678,2515.38
+431,2024-11-07,Australia,Gala,Economy,Supermarket,2.27,251,569.77
+432,2024-07-20,Japan,Red Delicious,Standard,Wholesale Market,1.45,1624,2354.8
+433,2025-08-11,Canada,Fuji,Premium,Supermarket,1.53,1282,1961.46
+434,2024-01-30,Japan,Granny Smith,Standard,Online Store,1.17,399,466.83
+435,2024-03-04,UAE,Red Delicious,Standard,Wholesale Market,3.21,1451,4657.71
+436,2024-08-31,USA,Honeycrisp,Economy,Supermarket,2.11,396,835.56
+437,2025-08-19,China,Red Delicious,Standard,Supermarket,1.03,442,455.26
+438,2024-02-25,Australia,Pink Lady,Premium,Online Store,1.61,860,1384.6
+439,2024-02-25,Germany,Gala,Premium,Wholesale Market,3.09,560,1730.4
+440,2024-11-18,China,Honeycrisp,Standard,Local Market,0.82,1825,1496.5
+441,2025-05-22,Germany,Golden Delicious,Standard,Wholesale Market,4.42,188,830.96
+442,2025-02-27,Saudi Arabia,Granny Smith,Premium,Wholesale Market,1.94,1842,3573.48
+443,2024-03-30,India,Fuji,Premium,Local Market,1.44,783,1127.52
+444,2025-02-09,Italy,Red Delicious,Standard,Local Market,2.88,285,820.8
+445,2025-02-16,India,Pink Lady,Standard,Wholesale Market,3.21,302,969.42
+446,2025-01-31,Italy,Fuji,Standard,Supermarket,1.51,630,951.3
+447,2024-10-12,UAE,Fuji,Premium,Wholesale Market,3.26,749,2441.74
+448,2024-04-04,UAE,Fuji,Economy,Online Store,1.53,1165,1782.45
+449,2025-04-23,Germany,Fuji,Standard,Local Market,3.89,1698,6605.22
+450,2024-08-09,Brazil,Red Delicious,Premium,Local Market,3.47,821,2848.87
+451,2025-05-02,China,Golden Delicious,Premium,Local Market,2.67,515,1375.05
+452,2025-09-02,Italy,Red Delicious,Premium,Online Store,4.13,1253,5174.89
+453,2025-09-14,UAE,Gala,Economy,Supermarket,2.69,307,825.83
+454,2025-07-09,UAE,Pink Lady,Standard,Supermarket,3.95,1557,6150.15
+455,2025-11-04,France,Gala,Standard,Supermarket,3.46,347,1200.62
+456,2025-12-12,Germany,Honeycrisp,Premium,Supermarket,1.46,1792,2616.32
+457,2024-03-10,UAE,Red Delicious,Standard,Wholesale Market,2.88,790,2275.2
+458,2024-03-08,Germany,Honeycrisp,Premium,Online Store,3.46,230,795.8
+459,2024-10-16,China,Pink Lady,Economy,Wholesale Market,2.12,1779,3771.48
+460,2024-10-10,Brazil,Pink Lady,Economy,Local Market,1.45,800,1160.0
+461,2025-02-26,Saudi Arabia,Granny Smith,Premium,Online Store,0.89,1491,1326.99
+462,2024-12-26,UK,Honeycrisp,Premium,Local Market,4.15,250,1037.5
+463,2025-09-15,Brazil,Gala,Standard,Supermarket,3.52,1509,5311.68
+464,2025-09-15,UAE,Honeycrisp,Premium,Online Store,1.4,455,637.0
+465,2024-02-10,Brazil,Fuji,Economy,Wholesale Market,2.84,1339,3802.76
+466,2025-08-06,France,Granny Smith,Economy,Local Market,2.64,1116,2946.24
+467,2024-01-01,UAE,Golden Delicious,Standard,Supermarket,1.21,1614,1952.94
+468,2025-08-22,Germany,Golden Delicious,Premium,Supermarket,3.05,146,445.3
+469,2024-11-22,Italy,Golden Delicious,Premium,Online Store,1.58,1922,3036.76
+470,2025-12-12,Australia,Pink Lady,Premium,Local Market,3.55,1581,5612.55
+471,2025-06-23,India,Granny Smith,Standard,Online Store,1.13,1988,2246.44
+472,2025-06-04,Germany,Granny Smith,Economy,Wholesale Market,1.0,1480,1480.0
+473,2025-05-16,Saudi Arabia,Pink Lady,Economy,Local Market,3.62,139,503.18
+474,2024-06-27,Brazil,Fuji,Economy,Local Market,2.82,1649,4650.18
+475,2024-09-12,Italy,Honeycrisp,Standard,Supermarket,4.37,394,1721.78
+476,2024-07-25,UK,Golden Delicious,Economy,Online Store,3.16,330,1042.8
+477,2025-11-17,Germany,Gala,Economy,Online Store,2.59,1495,3872.05
+478,2024-05-16,Saudi Arabia,Honeycrisp,Premium,Wholesale Market,4.26,769,3275.94
+479,2025-08-24,Brazil,Pink Lady,Premium,Online Store,2.88,733,2111.04
+480,2024-06-22,Australia,Granny Smith,Standard,Wholesale Market,3.3,367,1211.1
+481,2024-04-27,Italy,Granny Smith,Premium,Supermarket,3.35,75,251.25
+482,2024-03-02,Germany,Gala,Economy,Local Market,4.11,672,2761.92
+483,2025-04-03,Italy,Granny Smith,Standard,Local Market,4.36,380,1656.8
+484,2024-10-23,USA,Gala,Standard,Online Store,1.42,197,279.74
+485,2024-03-26,Saudi Arabia,Red Delicious,Standard,Supermarket,3.56,729,2595.24
+486,2025-10-22,China,Fuji,Economy,Local Market,2.61,939,2450.79
+487,2024-01-09,Brazil,Honeycrisp,Economy,Local Market,2.13,236,502.68
+488,2025-10-30,Saudi Arabia,Gala,Premium,Online Store,1.71,333,569.43
+489,2024-05-28,Brazil,Red Delicious,Economy,Wholesale Market,1.9,430,817.0
+490,2024-04-14,France,Golden Delicious,Economy,Local Market,3.7,1750,6475.0
+491,2025-01-23,Italy,Honeycrisp,Premium,Local Market,1.48,1740,2575.2
+492,2024-05-19,France,Fuji,Premium,Supermarket,2.84,806,2289.04
+493,2024-04-19,Saudi Arabia,Granny Smith,Premium,Wholesale Market,2.9,1336,3874.4
+494,2025-05-21,UK,Honeycrisp,Economy,Supermarket,2.37,1546,3664.02
+495,2024-05-25,UK,Granny Smith,Economy,Online Store,3.35,385,1289.75
+496,2024-04-01,China,Granny Smith,Premium,Wholesale Market,4.42,1792,7920.64
+497,2025-01-16,Australia,Pink Lady,Economy,Online Store,0.81,1772,1435.32
+498,2024-05-26,USA,Red Delicious,Economy,Online Store,1.85,1405,2599.25
+499,2024-12-12,Brazil,Pink Lady,Premium,Wholesale Market,1.03,68,70.04
+500,2025-01-22,UAE,Red Delicious,Economy,Local Market,1.89,957,1808.73
